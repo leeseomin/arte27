@@ -68,12 +68,12 @@ bash main.sh
 
 
 ### input image1
- <img src="https://github.com/leeseomin/arte3/blob/main/s/seed0335.png" width="500">
+ <img src="https://github.com/leeseomin/arte27/blob/main/s/IMG_2966.png" width="500">
  
 ### output image1
- <img src="https://github.com/leeseomin/arte7/blob/main/out/335a.png" width="2000">
- <img src="https://github.com/leeseomin/arte7/blob/main/out/335b.png" width="2000">
- <img src="https://github.com/leeseomin/arte7/blob/main/out/335c.png" width="2000">
+ <img src="https://github.com/leeseomin/arte27/blob/main/out/2966a.png" width="2000">
+ <img src="https://github.com/leeseomin/arte27/blob/main/out/2966b.png" width="2000">
+
 
 
  

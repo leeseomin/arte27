@@ -75,6 +75,12 @@ bash main.sh
  <img src="https://github.com/leeseomin/arte27/blob/main/out/2966b.png" width="2000">
 
 
+### input image2
+ <img src="https://github.com/leeseomin/arte27/blob/main/s/IMG_2881.png" width="500">
+ 
+### output image2
+ <img src="https://github.com/leeseomin/arte27/blob/main/out/2881out.png" width="2000">
+ <img src="https://github.com/leeseomin/arte27/blob/main/out/2881out2.png" width="2000">
 
  
  

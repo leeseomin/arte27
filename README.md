@@ -1,6 +1,6 @@
 # arte27
 
- <img src="https://github.com/leeseomin/arte27/blob/main/2933.png" width="1900">
+ <img src="https://github.com/leeseomin/arte27/blob/main/out/2966b.png" width="2000">
 
 
 ### Dependency install on ubuntu 20.04 

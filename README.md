@@ -2,6 +2,9 @@
 
  <img src="https://github.com/leeseomin/arte27/blob/main/out/2966b.png" width="2000">
 
+# NFT ARTWORK created BY arte27
+
+https://rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:717488?tab=owners
 
 ### Dependency install on ubuntu 20.04 
 

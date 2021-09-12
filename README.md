@@ -49,6 +49,12 @@ cd arte27
 
 mkdir s{1..25}
 
+-----------------------------------------
+
+Change the location of the following file to suit your environment and run it
+
+/home/lee/arte27/logo/mon8.png
+
 
 ```
 
